@@ -73,3 +73,9 @@ Which of the following indicates the recommended method to find more information
 Your main website's files should be stored within which of these directories?
 
 - /home/$user/public_html
+
+Which of the following domain redirect types will result in client browser bookmarks being updated to the destination URL?
+- 301
+
+When deleting an email account, how can you automatically recover data that was stored within that account?
+- Email account deletion is considered permanent, and cannot be automatically recovered.
